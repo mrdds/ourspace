@@ -1,0 +1,22 @@
+<svg id="ourspace-abstract-svg" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" class="drop-shadow-2xl">
+                        <!-- Background Squircle -->
+                        <rect width="100" height="100" rx="28" fill="#000000"></rect>
+                        
+                        <!-- Modular Space Symbol (No K) -->
+                        <!-- Representing tiles/workspace areas with the 5 colors -->
+                        
+                        <!-- Top Left: Trust (Blue) -->
+                        <rect x="25" y="25" width="22" height="22" rx="6" fill="#3A7BFF"></rect>
+                        
+                        <!-- Top Right: Energy (Orange) -->
+                        <rect x="53" y="25" width="22" height="34" rx="6" fill="#FF8A00"></rect>
+                        
+                        <!-- Bottom Left: Connect (Purple) -->
+                        <rect x="25" y="53" width="22" height="22" rx="6" fill="#7B61FF"></rect>
+                        
+                        <!-- Small Accent: Impact (Red) -->
+                        <rect x="53" y="65" width="10" height="10" rx="3" fill="#E64545"></rect>
+                        
+                        <!-- Success Indicator: Green -->
+                        <rect x="65" y="65" width="10" height="10" rx="3" fill="#1DBF73"></rect>
+                    </svg>
